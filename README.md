@@ -1,4 +1,0 @@
-- Yehang
-- Data Science and Computer Science
-- Junior
-- Machine learning experience?
